@@ -12,7 +12,7 @@ urls=(
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://abpvn.com/android/abpvn.txt
-  https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  #https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 )
 
 # download all files in parallel and append them to input.csv
